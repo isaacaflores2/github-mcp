@@ -30,3 +30,6 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+/.idea/github-mcp.iml
+/.idea/workspace.xml
+/.idea/vcs.xml

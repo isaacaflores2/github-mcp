@@ -1,0 +1,355 @@
+{
+  "url": "https://api.github.com/repos/golang/go/compare/go1.24.0...go1.24.1",
+  "html_url": "https://github.com/golang/go/compare/go1.24.0...go1.24.1",
+  "permalink_url": "https://github.com/golang/go/compare/golang:3901409...golang:339c903",
+  "diff_url": "https://github.com/golang/go/compare/go1.24.0...go1.24.1.diff",
+  "patch_url": "https://github.com/golang/go/compare/go1.24.0...go1.24.1.patch",
+  "base_commit": {
+    "sha": "3901409b5d0fb7c85a3e6730a59943cc93b2835c",
+    "node_id": "C_kwDOAWBuf9oAKDM5MDE0MDliNWQwZmI3Yzg1YTNlNjczMGE1OTk0M2NjOTNiMjgzNWM",
+    "commit": {
+      "author": {
+        "name": "Gopher Robot",
+        "email": "gobot@golang.org",
+        "date": "2025-02-11T17:24:39Z"
+      },
+      "committer": {
+        "name": "Gopher Robot",
+        "email": "gobot@golang.org",
+        "date": "2025-02-11T17:55:39Z"
+      },
+      "message": "[release-branch.go1.24] go1.24.0\n\nChange-Id: I98457f219e75fb99233804d15c8b9577ee3d4a24\nReviewed-on: https://go-review.googlesource.com/c/go/+/648555\nReviewed-by: Cherry Mui <cherryyz@google.com>\nTryBot-Bypass: Dmitri Shuralyov <dmitshur@golang.org>\nAuto-Submit: Gopher Robot <gobot@golang.org>\nReviewed-by: Dmitri Shuralyov <dmitshur@golang.org>\nReviewed-by: Dmitri Shuralyov <dmitshur@google.com>",
+      "tree": {
+        "sha": "168419750322ffdf20be120cb0797ae480a27e98",
+        "url": "https://api.github.com/repos/golang/go/git/trees/168419750322ffdf20be120cb0797ae480a27e98"
+      },
+      "url": "https://api.github.com/repos/golang/go/git/commits/3901409b5d0fb7c85a3e6730a59943cc93b2835c",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/golang/go/commits/3901409b5d0fb7c85a3e6730a59943cc93b2835c",
+    "html_url": "https://github.com/golang/go/commit/3901409b5d0fb7c85a3e6730a59943cc93b2835c",
+    "comments_url": "https://api.github.com/repos/golang/go/commits/3901409b5d0fb7c85a3e6730a59943cc93b2835c/comments",
+    "author": {
+      "login": "gopherbot",
+      "id": 8566911,
+      "node_id": "MDQ6VXNlcjg1NjY5MTE=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8566911?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/gopherbot",
+      "html_url": "https://github.com/gopherbot",
+      "followers_url": "https://api.github.com/users/gopherbot/followers",
+      "following_url": "https://api.github.com/users/gopherbot/following{/other_user}",
+      "gists_url": "https://api.github.com/users/gopherbot/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/gopherbot/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/gopherbot/subscriptions",
+      "organizations_url": "https://api.github.com/users/gopherbot/orgs",
+      "repos_url": "https://api.github.com/users/gopherbot/repos",
+      "events_url": "https://api.github.com/users/gopherbot/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/gopherbot/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "gopherbot",
+      "id": 8566911,
+      "node_id": "MDQ6VXNlcjg1NjY5MTE=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8566911?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/gopherbot",
+      "html_url": "https://github.com/gopherbot",
+      "followers_url": "https://api.github.com/users/gopherbot/followers",
+      "following_url": "https://api.github.com/users/gopherbot/following{/other_user}",
+      "gists_url": "https://api.github.com/users/gopherbot/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/gopherbot/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/gopherbot/subscriptions",
+      "organizations_url": "https://api.github.com/users/gopherbot/orgs",
+      "repos_url": "https://api.github.com/users/gopherbot/repos",
+      "events_url": "https://api.github.com/users/gopherbot/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/gopherbot/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "35c0ea22a94aa5ad447bf640c4f7388d3f1d75eb",
+        "url": "https://api.github.com/repos/golang/go/commits/35c0ea22a94aa5ad447bf640c4f7388d3f1d75eb",
+        "html_url": "https://github.com/golang/go/commit/35c0ea22a94aa5ad447bf640c4f7388d3f1d75eb"
+      }
+    ]
+  },
+  "merge_base_commit": {
+    "sha": "3901409b5d0fb7c85a3e6730a59943cc93b2835c",
+    "node_id": "C_kwDOAWBuf9oAKDM5MDE0MDliNWQwZmI3Yzg1YTNlNjczMGE1OTk0M2NjOTNiMjgzNWM",
+    "commit": {
+      "author": {
+        "name": "Gopher Robot",
+        "email": "gobot@golang.org",
+        "date": "2025-02-11T17:24:39Z"
+      },
+      "committer": {
+        "name": "Gopher Robot",
+        "email": "gobot@golang.org",
+        "date": "2025-02-11T17:55:39Z"
+      },
+      "message": "[release-branch.go1.24] go1.24.0\n\nChange-Id: I98457f219e75fb99233804d15c8b9577ee3d4a24\nReviewed-on: https://go-review.googlesource.com/c/go/+/648555\nReviewed-by: Cherry Mui <cherryyz@google.com>\nTryBot-Bypass: Dmitri Shuralyov <dmitshur@golang.org>\nAuto-Submit: Gopher Robot <gobot@golang.org>\nReviewed-by: Dmitri Shuralyov <dmitshur@golang.org>\nReviewed-by: Dmitri Shuralyov <dmitshur@google.com>",
+      "tree": {
+        "sha": "168419750322ffdf20be120cb0797ae480a27e98",
+        "url": "https://api.github.com/repos/golang/go/git/trees/168419750322ffdf20be120cb0797ae480a27e98"
+      },
+      "url": "https://api.github.com/repos/golang/go/git/commits/3901409b5d0fb7c85a3e6730a59943cc93b2835c",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/golang/go/commits/3901409b5d0fb7c85a3e6730a59943cc93b2835c",
+    "html_url": "https://github.com/golang/go/commit/3901409b5d0fb7c85a3e6730a59943cc93b2835c",
+    "comments_url": "https://api.github.com/repos/golang/go/commits/3901409b5d0fb7c85a3e6730a59943cc93b2835c/comments",
+    "author": {
+      "login": "gopherbot",
+      "id": 8566911,
+      "node_id": "MDQ6VXNlcjg1NjY5MTE=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8566911?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/gopherbot",
+      "html_url": "https://github.com/gopherbot",
+      "followers_url": "https://api.github.com/users/gopherbot/followers",
+      "following_url": "https://api.github.com/users/gopherbot/following{/other_user}",
+      "gists_url": "https://api.github.com/users/gopherbot/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/gopherbot/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/gopherbot/subscriptions",
+      "organizations_url": "https://api.github.com/users/gopherbot/orgs",
+      "repos_url": "https://api.github.com/users/gopherbot/repos",
+      "events_url": "https://api.github.com/users/gopherbot/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/gopherbot/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "gopherbot",
+      "id": 8566911,
+      "node_id": "MDQ6VXNlcjg1NjY5MTE=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8566911?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/gopherbot",
+      "html_url": "https://github.com/gopherbot",
+      "followers_url": "https://api.github.com/users/gopherbot/followers",
+      "following_url": "https://api.github.com/users/gopherbot/following{/other_user}",
+      "gists_url": "https://api.github.com/users/gopherbot/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/gopherbot/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/gopherbot/subscriptions",
+      "organizations_url": "https://api.github.com/users/gopherbot/orgs",
+      "repos_url": "https://api.github.com/users/gopherbot/repos",
+      "events_url": "https://api.github.com/users/gopherbot/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/gopherbot/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "35c0ea22a94aa5ad447bf640c4f7388d3f1d75eb",
+        "url": "https://api.github.com/repos/golang/go/commits/35c0ea22a94aa5ad447bf640c4f7388d3f1d75eb",
+        "html_url": "https://github.com/golang/go/commit/35c0ea22a94aa5ad447bf640c4f7388d3f1d75eb"
+      }
+    ]
+  },
+  "status": "ahead",
+  "ahead_by": 2,
+  "behind_by": 0,
+  "total_commits": 2,
+  "commits": [
+    {
+      "sha": "80e2e474b8d9124d03b744f4e2da099a4eec5957",
+      "node_id": "C_kwDOAWBuf9oAKDgwZTJlNDc0YjhkOTEyNGQwM2I3NDRmNGUyZGEwOTlhNGVlYzU5NTc",
+      "commit": {
+        "author": {
+          "name": "Quan Tong",
+          "email": "quantonganh@gmail.com",
+          "date": "2025-02-07T11:42:26Z"
+        },
+        "committer": {
+          "name": "Gopher Robot",
+          "email": "gobot@golang.org",
+          "date": "2025-02-12T19:16:33Z"
+        },
+        "message": "[release-branch.go1.24] cmd/go: initialize req.Header when loading git credential\n\nFixes #71687\n\nChange-Id: I3d733a50b4451dfb571aba91a28387ba9e0614dc\nReviewed-on: https://go-review.googlesource.com/c/go/+/647615\nReviewed-by: Michael Matloob <matloob@golang.org>\nReviewed-by: Sam Thanawalla <samthanawalla@google.com>\nLUCI-TryBot-Result: Go LUCI <golang-scoped@luci-project-accounts.iam.gserviceaccount.com>\nReviewed-by: Dmitri Shuralyov <dmitshur@google.com>\n(cherry picked from commit 58834c3ee08ea85b764c7cc3318ce7a68ea92cbd)\nReviewed-on: https://go-review.googlesource.com/c/go/+/648936\nReviewed-by: Dmitri Shuralyov <dmitshur@golang.org>\nTryBot-Bypass: Dmitri Shuralyov <dmitshur@golang.org>\nAuto-Submit: Dmitri Shuralyov <dmitshur@google.com>",
+        "tree": {
+          "sha": "654d8b3581502495f310bc85d802cd1bce4f89ef",
+          "url": "https://api.github.com/repos/golang/go/git/trees/654d8b3581502495f310bc85d802cd1bce4f89ef"
+        },
+        "url": "https://api.github.com/repos/golang/go/git/commits/80e2e474b8d9124d03b744f4e2da099a4eec5957",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null,
+          "verified_at": null
+        }
+      },
+      "url": "https://api.github.com/repos/golang/go/commits/80e2e474b8d9124d03b744f4e2da099a4eec5957",
+      "html_url": "https://github.com/golang/go/commit/80e2e474b8d9124d03b744f4e2da099a4eec5957",
+      "comments_url": "https://api.github.com/repos/golang/go/commits/80e2e474b8d9124d03b744f4e2da099a4eec5957/comments",
+      "author": {
+        "login": "quantonganh",
+        "id": 1568504,
+        "node_id": "MDQ6VXNlcjE1Njg1MDQ=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1568504?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/quantonganh",
+        "html_url": "https://github.com/quantonganh",
+        "followers_url": "https://api.github.com/users/quantonganh/followers",
+        "following_url": "https://api.github.com/users/quantonganh/following{/other_user}",
+        "gists_url": "https://api.github.com/users/quantonganh/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/quantonganh/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/quantonganh/subscriptions",
+        "organizations_url": "https://api.github.com/users/quantonganh/orgs",
+        "repos_url": "https://api.github.com/users/quantonganh/repos",
+        "events_url": "https://api.github.com/users/quantonganh/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/quantonganh/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "gopherbot",
+        "id": 8566911,
+        "node_id": "MDQ6VXNlcjg1NjY5MTE=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/8566911?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/gopherbot",
+        "html_url": "https://github.com/gopherbot",
+        "followers_url": "https://api.github.com/users/gopherbot/followers",
+        "following_url": "https://api.github.com/users/gopherbot/following{/other_user}",
+        "gists_url": "https://api.github.com/users/gopherbot/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/gopherbot/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/gopherbot/subscriptions",
+        "organizations_url": "https://api.github.com/users/gopherbot/orgs",
+        "repos_url": "https://api.github.com/users/gopherbot/repos",
+        "events_url": "https://api.github.com/users/gopherbot/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/gopherbot/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "3901409b5d0fb7c85a3e6730a59943cc93b2835c",
+          "url": "https://api.github.com/repos/golang/go/commits/3901409b5d0fb7c85a3e6730a59943cc93b2835c",
+          "html_url": "https://github.com/golang/go/commit/3901409b5d0fb7c85a3e6730a59943cc93b2835c"
+        }
+      ]
+    },
+    {
+      "sha": "339c903a75c3fe936fb4ed6c355d15e6081d6af3",
+      "node_id": "C_kwDOAWBuf9oAKDMzOWM5MDNhNzVjM2ZlOTM2ZmI0ZWQ2YzM1NWQxNWU2MDgxZDZhZjM",
+      "commit": {
+        "author": {
+          "name": "Gopher Robot",
+          "email": "gobot@golang.org",
+          "date": "2025-03-04T18:49:07Z"
+        },
+        "committer": {
+          "name": "Gopher Robot",
+          "email": "gobot@golang.org",
+          "date": "2025-03-04T19:27:08Z"
+        },
+        "message": "[release-branch.go1.24] go1.24.1\n\nChange-Id: I774fcee39151f830ad58fd1677239bc0207c6679\nReviewed-on: https://go-review.googlesource.com/c/go/+/654319\nAuto-Submit: Gopher Robot <gobot@golang.org>\nAuto-Submit: Junyang Shao <shaojunyang@google.com>\nReviewed-by: Michael Pratt <mpratt@google.com>\nReviewed-by: Junyang Shao <shaojunyang@google.com>\nLUCI-TryBot-Result: Go LUCI <golang-scoped@luci-project-accounts.iam.gserviceaccount.com>",
+        "tree": {
+          "sha": "42a0ebd27bf8313b609f3d9c568d011811f56737",
+          "url": "https://api.github.com/repos/golang/go/git/trees/42a0ebd27bf8313b609f3d9c568d011811f56737"
+        },
+        "url": "https://api.github.com/repos/golang/go/git/commits/339c903a75c3fe936fb4ed6c355d15e6081d6af3",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null,
+          "verified_at": null
+        }
+      },
+      "url": "https://api.github.com/repos/golang/go/commits/339c903a75c3fe936fb4ed6c355d15e6081d6af3",
+      "html_url": "https://github.com/golang/go/commit/339c903a75c3fe936fb4ed6c355d15e6081d6af3",
+      "comments_url": "https://api.github.com/repos/golang/go/commits/339c903a75c3fe936fb4ed6c355d15e6081d6af3/comments",
+      "author": {
+        "login": "gopherbot",
+        "id": 8566911,
+        "node_id": "MDQ6VXNlcjg1NjY5MTE=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/8566911?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/gopherbot",
+        "html_url": "https://github.com/gopherbot",
+        "followers_url": "https://api.github.com/users/gopherbot/followers",
+        "following_url": "https://api.github.com/users/gopherbot/following{/other_user}",
+        "gists_url": "https://api.github.com/users/gopherbot/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/gopherbot/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/gopherbot/subscriptions",
+        "organizations_url": "https://api.github.com/users/gopherbot/orgs",
+        "repos_url": "https://api.github.com/users/gopherbot/repos",
+        "events_url": "https://api.github.com/users/gopherbot/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/gopherbot/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "gopherbot",
+        "id": 8566911,
+        "node_id": "MDQ6VXNlcjg1NjY5MTE=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/8566911?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/gopherbot",
+        "html_url": "https://github.com/gopherbot",
+        "followers_url": "https://api.github.com/users/gopherbot/followers",
+        "following_url": "https://api.github.com/users/gopherbot/following{/other_user}",
+        "gists_url": "https://api.github.com/users/gopherbot/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/gopherbot/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/gopherbot/subscriptions",
+        "organizations_url": "https://api.github.com/users/gopherbot/orgs",
+        "repos_url": "https://api.github.com/users/gopherbot/repos",
+        "events_url": "https://api.github.com/users/gopherbot/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/gopherbot/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "80e2e474b8d9124d03b744f4e2da099a4eec5957",
+          "url": "https://api.github.com/repos/golang/go/commits/80e2e474b8d9124d03b744f4e2da099a4eec5957",
+          "html_url": "https://github.com/golang/go/commit/80e2e474b8d9124d03b744f4e2da099a4eec5957"
+        }
+      ]
+    }
+  ],
+  "files": [
+    {
+      "sha": "f87a20c23c1e3b2488aaef479f3eebab9f6afa9d",
+      "filename": "VERSION",
+      "status": "modified",
+      "additions": 2,
+      "deletions": 2,
+      "changes": 4,
+      "blob_url": "https://github.com/golang/go/blob/339c903a75c3fe936fb4ed6c355d15e6081d6af3/VERSION",
+      "raw_url": "https://github.com/golang/go/raw/339c903a75c3fe936fb4ed6c355d15e6081d6af3/VERSION",
+      "contents_url": "https://api.github.com/repos/golang/go/contents/VERSION?ref=339c903a75c3fe936fb4ed6c355d15e6081d6af3",
+      "patch": "@@ -1,2 +1,2 @@\n-go1.24.0\n-time 2025-02-10T23:33:55Z\n+go1.24.1\n+time 2025-02-27T17:57:18Z"
+    }
+  ]
+}

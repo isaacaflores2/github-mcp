@@ -1,6 +1,9 @@
 # github-mcp
 Simple mcp server for GitHub related things
 
+## Tools
+- `compare_commits` provides a summary of the changes between two commits/refs
+
 ## Setup
 1. Store your GitHub access token in the `GITHUB_TOKEN` environment variable
 ```bash

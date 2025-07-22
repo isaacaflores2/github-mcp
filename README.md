@@ -11,14 +11,15 @@ Simple mcp server for GitHub related things
   go install ./cmd/githubmcp 
   $GOBIN/githubmcp
 ```
+
 3. Configure your MCP client to connect to your server
 ### Windsurf
 Update `~/.codeium/windsurf/mcp_config.json` to include the following:
-```bash
+```json
 {
   "mcpServers": {
     "github-mcp": {
-      "command": "./Users/isaacflores/go/bin/githubmcp",
+      "command": "./full/path/go/bin/githubmcp",
       "args": [],
       "env": {}
     }
